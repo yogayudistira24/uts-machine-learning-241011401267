@@ -4,7 +4,7 @@
 - **Nama** : Yoga Yudistira
 - **NIM** : 241011401267
 - **Kelas** : Reg B 
-- **random_state** : 42 *(ganti dengan 2 digit terakhir NIM)*
+- **random_state** : 67
 
 Seluruh model dan metrik (`train_test_split`, `LinearRegression`, `LinearRegressionGD`, `LogisticRegression`, `accuracy_score`, `confusion_matrix`, MAE/MSE/RMSE/R², precision/recall/F1) diimplementasikan sendiri dengan NumPy. scikit-learn hanya dipakai pada soal bonus.
 
